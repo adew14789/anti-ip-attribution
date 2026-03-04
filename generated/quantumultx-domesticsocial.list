@@ -1,5 +1,5 @@
 # 针对部分网站显示IP归属地的分流规则
-# anti-ip-attribution quantumultx-domesticsocial.list v0.3.1 ed8a34473b8b2caecc7c33f8ec513bd49d6138e6
+# anti-ip-attribution quantumultx-domesticsocial.list v0.3.1 0ca5295d0e98098912e3410eda1fee91e4984c43
 # https://github.com/SunsetMkt/anti-ip-attribution
 # QuantumultX分流规则，策略组名称为DomesticSocial
 DOMAIN,httpdns.bilivideo.com,REJECT
